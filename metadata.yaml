@@ -1,0 +1,25 @@
+_repo: NaapuritAlkuper-inen-kertomus_27539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stenius, John
+    alias: Eivaro
+    gutenberg_agent_id: '32754'
+    url: http://www.gutenberg.org/2009/agents/32754
+description: ''
+gutenberg_issued: '2008-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27539'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: 'Naapurit: Alkuperäinen kertomus'
+url: http://www.gutenberg.org/ebooks/27539
