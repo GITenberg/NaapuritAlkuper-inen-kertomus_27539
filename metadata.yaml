@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32754'
     url: http://www.gutenberg.org/2009/agents/32754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27539#NaapuritAlkuper-inen-kertomus
 gutenberg_issued: '2008-12-15'
 gutenberg_type: Text
 identifiers:
